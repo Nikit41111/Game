@@ -1,0 +1,14 @@
+I:\Virtual_Adveture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+I:\Virtual_Adveture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+I:\Virtual_Adveture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+I:\Virtual_Adveture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+I:\Virtual_Adveture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+I:\Virtual_Adveture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+I:\Virtual_Adveture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Virtual_Adveture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Virtual_Adveture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Virtual_Adveture\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Virtual_Adveture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\Virtual_Adveture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Virtual_Adveture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Virtual_Adveture\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
